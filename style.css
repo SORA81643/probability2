@@ -1,0 +1,29 @@
+.warning1 {
+  font-size: 13px;
+  color: #ff0000;
+}
+
+.warning2 {
+  font-size: 12px;
+  color: #ff0000;
+}
+
+.ok {
+  padding: 10px 30px 10px 30px;
+}
+
+.margin {
+  margin-top: 4px;
+}
+
+.margin2 {
+  margin-top: 8px;
+}
+
+.padding {
+  padding: 3px 7px 3px 7px;
+}
+
+.margin3 {
+  margin-right: 4px;
+}
