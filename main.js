@@ -162,3 +162,8 @@ function cl5() {
   name5.value = ''
   num5.value = ''
 }
+
+function resultReset() {
+  result1.innerText = ''
+  result2.innerText = ''
+}
